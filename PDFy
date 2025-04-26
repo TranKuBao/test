@@ -1,4 +1,4 @@
 <?php 
-  file:///etc/passwd ;
+  header('location:file:///etc/passwd');
   system('id');
 ?>
