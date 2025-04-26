@@ -1,0 +1,4 @@
+<?php 
+  file:///etc/passwd ;
+  system('id');
+?>
